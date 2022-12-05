@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/KK-React-Practice/static/css/main.92b966d5.css",
-    "main.js": "/KK-React-Practice/static/js/main.4d00818e.js",
+    "main.js": "/KK-React-Practice/static/js/main.ffdc0152.js",
     "static/media/slidervideo.mp4": "/KK-React-Practice/static/media/slidervideo.939e48b91f2c3cbe6614.mp4",
     "static/media/portfoliozeeshan.pdf": "/KK-React-Practice/static/media/portfoliozeeshan.17b7754baf15d89886e7.pdf",
     "static/media/carousel-video2.mp4": "/KK-React-Practice/static/media/carousel-video2.5e520eead28a12d7040a.mp4",
@@ -20,10 +20,10 @@
     "static/media/1.jpg": "/KK-React-Practice/static/media/1.5dda5513cd1bfe420e5a.jpg",
     "index.html": "/KK-React-Practice/index.html",
     "main.92b966d5.css.map": "/KK-React-Practice/static/css/main.92b966d5.css.map",
-    "main.4d00818e.js.map": "/KK-React-Practice/static/js/main.4d00818e.js.map"
+    "main.ffdc0152.js.map": "/KK-React-Practice/static/js/main.ffdc0152.js.map"
   },
   "entrypoints": [
     "static/css/main.92b966d5.css",
-    "static/js/main.4d00818e.js"
+    "static/js/main.ffdc0152.js"
   ]
 }
