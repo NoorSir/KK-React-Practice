@@ -9,7 +9,7 @@ function Header(){
 	<nav className="autohide navbar navbar-expand-md navbar-dark">
 	<div className="container-fluid" >
 		<div className="animbrand">
-		<a className="navbar-brand animate" href="https://noorsir.github.io/KK-React-Practice/">Noor</a>
+		<a className="navbar-brand animate" href={/}>Noor</a>
 		</div>
 	<button className="navbar-toggler" style={{boxShadow:"unset"}} type="button" data-bs-toggle="collapse"  data-bs-target="#main_nav"  aria-expanded="false" aria-label="Toggle navigation">
 		<span className="navbar-toggler-icon"></span>
